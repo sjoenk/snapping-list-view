@@ -8,9 +8,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [0.1.0] - 2020-04-01
 ### Added
-- This changelog
-- A readme
-- A license
+- This [Changelog](https://github.com/sjoenk/snapping-list-view/blob/master/CHANGELOG.md)
+- A [Readme](https://github.com/sjoenk/snapping-list-view/blob/master/README.md)
+- A [License](https://github.com/sjoenk/snapping-list-view/blob/master/LICENSE)
 - Implemented SnappingScrollPhysics
 - Implemented SnappingListView wich extends ListView and uses SnappingScrollPhysics for the scrollphysics
 
