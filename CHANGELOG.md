@@ -10,6 +10,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 - This changelog
 - A readme
+- A license
 - Implemented SnappingScrollPhysics
 - Implemented SnappingListView wich extends ListView and uses SnappingScrollPhysics for the scrollphysics
 
